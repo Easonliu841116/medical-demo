@@ -4,7 +4,7 @@
 
 ## 展示網址
 
-<https://easonliu841116.github.io/demo_tours-website/dist/#/>
+<https://easonliu841116.github.io/medical-demo/index#/>
 
 ## 功能簡介
 
@@ -30,11 +30,8 @@
 
 #### 病患群組選擇畫面
 
-* 未在床
-![dashboard-off](https://i.imgur.com/cj7YcrR.png "dashboard-off")
-
 * 在床
-![dashboard-on](https://i.imgur.com/jllQxYB.png "dashboard-on")
+![dashboard](https://i.imgur.com/myMma5b.png "dashboard")
 
 * Demo ( 使用 localStorage 做簡易資料庫 ) :
   * 病患選單: 返回 `部分` 或 `全部` 的 `假資料`。
